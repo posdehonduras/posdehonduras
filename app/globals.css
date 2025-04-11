@@ -1,0 +1,78 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 0 0% 10%;
+
+    --muted: 0 0% 95%;
+    --muted-foreground: 0 0% 40%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 0 0% 10%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 0 0% 10%;
+
+    --border: 0 0% 85%;
+    --input: 0 0% 90%;
+
+    --primary: 0 85% 50%; /* Rojo vibrante */
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 34 89% 55%; /* Naranja brillante */
+    --secondary-foreground: 0 0% 100%;
+
+    --accent: 210 100% 50%; /* Azul vibrante */
+    --accent-foreground: 0 0% 100%;
+
+    --destructive: 350 80% 50%; /* Rojo intenso para errores */
+    --destructive-foreground: 0 0% 100%;
+
+    --ring: 0 85% 50%; /* Anillo en rojo para foco */
+
+    --radius: 0.5rem;
+  }
+
+  .dark {
+    --background: 0 0% 10%;
+    --foreground: 0 0% 100%;
+
+    --muted: 0 0% 20%;
+    --muted-foreground: 0 0% 70%;
+
+    --popover: 0 0% 15%;
+    --popover-foreground: 0 0% 100%;
+
+    --card: 0 0% 15%;
+    --card-foreground: 0 0% 100%;
+
+    --border: 0 0% 30%;
+    --input: 0 0% 25%;
+
+    --primary: 0 85% 60%; /* Rojo vibrante en modo oscuro */
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 34 89% 60%; /* Naranja brillante en oscuro */
+    --secondary-foreground: 0 0% 100%;
+
+    --accent: 210 100% 60%; /* Azul vibrante en oscuro */
+    --accent-foreground: 0 0% 100%;
+
+    --destructive: 350 90% 55%; /* Rojo intenso para errores */
+    --destructive-foreground: 0 0% 100%;
+
+    --ring: 0 85% 60%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
