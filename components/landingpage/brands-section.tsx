@@ -48,7 +48,7 @@ const brands = [
   },
   {
     name:"EPSON",
-    image: "https://res.cloudinary.com/dc95c99nb/image/upload/v1773336636/epson_upad3i.png",
+    image: "https://res.cloudinary.com/dc95c99nb/image/upload/v1773336936/Epson_Logo_tprqev.png",
     description:"Supera tu Vision, Eficiente, Compacta y Precisa"
   },
 ]
