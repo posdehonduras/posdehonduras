@@ -46,6 +46,11 @@ const brands = [
     image: "https://res.cloudinary.com/ddrl7h6xt/image/upload/v1742328793/3NSTAR_i8ncuk.png",
     description:"Tecnologia de captura de datos automaticas"
   },
+  {
+    name:"EPSON",
+    image: "https://res.cloudinary.com/dc95c99nb/image/upload/v1773336636/epson_upad3i.png",
+    description:"Supera tu Vision, Eficiente, Compacta y Precisa"
+  },
 ]
 
 export default function BradsSection() {
