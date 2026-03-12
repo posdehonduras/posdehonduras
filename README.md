@@ -64,5 +64,4 @@ Una plataforma de comercio electrónico completa y moderna desarrollada específ
 
 Este proyecto fue diseñado y desarrollado por:
 
-- **Juan Turcios**
-- **Cristopher Nuñez** 
+- **POS de Honduras** 
