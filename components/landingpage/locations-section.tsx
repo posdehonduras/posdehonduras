@@ -42,7 +42,7 @@ const locations = [
     address: "Barrio Miraflores, Boulevard JOrge Bueso Arias, frente a Plaza Alvarados, al par de Banco Azteca, Italika",
     schedule: "Lunes a viernes 8:00 AM a 5:00 PM",
     scheduleWeekend: "Sábado de 8:00 AM a 12:00 PM",
-    coordinates: "14.76657100533163, -88.77823983351533",
+    coordinates: "14.774459863124395, -88.77581643098527",
   },
 ]
 
