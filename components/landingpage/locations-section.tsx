@@ -39,7 +39,7 @@ const locations = [
   },
   {
     city: "SANTA ROSA DE COPAN",
-    address: "Barrio teresa, 1 cuadra al este del parque central la libertad , esquina opuesta a la corte de Apelaciones y los juzgados",
+    address: "Barrio Miraflores, Boulevard JOrge Bueso Arias, frente a Plaza Alvarados, al par de Banco Azteca, Italika",
     schedule: "Lunes a viernes 8:00 AM a 5:00 PM",
     scheduleWeekend: "Sábado de 8:00 AM a 12:00 PM",
     coordinates: "14.76657100533163, -88.77823983351533",
