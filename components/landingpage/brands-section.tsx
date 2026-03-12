@@ -16,9 +16,9 @@ const brands = [
     description:"Lider mundial en la fabricacion de microprocesadores"
   },
   {
-    name : "Cizaro",
-    image: "https://res.cloudinary.com/ddrl7h6xt/image/upload/v1742328787/cizaro_bh5ljl.png",
-    description : "Soluciones innovadoras para puntos de ventas"
+    name : "RMH POS",
+    image: "https://res.cloudinary.com/dc95c99nb/image/upload/v1773334469/rhm-email-logo_u50mkg.png",
+    description : "Un enfoque de POS práctico para el comercio minorista y más allá"
   },
   {
     name:"Marques",
