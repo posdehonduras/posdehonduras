@@ -21,9 +21,9 @@ const brands = [
     description : "Un enfoque de POS práctico para el comercio minorista y más allá"
   },
   {
-    name:"Marques",
-    image: "https://res.cloudinary.com/ddrl7h6xt/image/upload/v1742328791/MARQUES_fsdru5.png",
-    description:"Soluciones tecnológicas  de alta calidad"
+    name:"MyPOS",
+    image: "https://res.cloudinary.com/dc95c99nb/image/upload/v1773335562/mypos_rnrrv2.jpg",
+    description:"Solucion de Calidad completamente en la nube"
   },
   {
     name:"IDP",
