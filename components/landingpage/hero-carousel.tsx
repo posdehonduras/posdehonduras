@@ -47,7 +47,7 @@ const branches = [
   {
     id: 5,
     name: "Sucursal Santa Rosa de Copan",
-    address: "Barrio teresa, 1 cuadra al este del parque central la libertad ",
+    address: "Barrio Miraflores, Boulevard Jorge Bueso Arias, frente a Plaza Alvarados, al par de Banco Azteca ",
     phone: "+504 31985826",
     schedule: "Lunes a viernes 8:00 AM a 5:00 PM",
     scheduleWeekend: "Sábado de 8:00 AM a 12:00 PM",
