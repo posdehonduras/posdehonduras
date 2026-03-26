@@ -87,17 +87,17 @@ const slides = [
 
 
   {
-    //Seccion slide Easy Rest
+    //Seccion slide MyPOS
     id: 2,
-    image: "https://res.cloudinary.com/ddrl7h6xt/image/upload/v1743697496/4_a2cfqw.jpg",
+    image: "https://res.cloudinary.com/dc95c99nb/image/upload/v1774553350/IM%C3%81GENES_INICIO_P%C3%81G_WEB_actualizaci%C3%B3n-14_vz2zup.jpg",
     title: (
       <>
         <div className="space-y-7">
           <p className="text-white text-3xl sm:text-3xl md:text-3xl lg:text-4xl font-extrabold">
-          Easy Rest: La revolución en tu restaurante
+          Agiliza tu restaurante con comandas en pantalla
           </p>
           <p className="text-white text-xl sm:text-xl md:text-1xl lg:text-2xl">
-          Contáctanos y lleva la gestión de tu negocio al siguiente nivel
+          Toma pedidos desde la mesa, anvialos directo a cocina y reduce errores en cada orden.
           </p>
         </div>
       </>
