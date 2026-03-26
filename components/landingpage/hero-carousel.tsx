@@ -156,7 +156,7 @@ const slides = [
   {
     //Seccion slide Cizaro
     id: 4,
-    image: "https://res.cloudinary.com/ddrl7h6xt/image/upload/v1743697495/8_gyeurz.jpg",
+    image: "https://res.cloudinary.com/dc95c99nb/image/upload/v1774553347/IMÁGENES_INICIO_PÁG_WEB_actualización-11_lfxdyf.jpg",
     title: (
       <>
         <div className="space-y-7">
