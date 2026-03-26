@@ -217,39 +217,10 @@ const slides = [
 
 
 
-  {
-    //Seccion slide punto de venta
-    id: 6,
-    image: "https://res.cloudinary.com/ddrl7h6xt/image/upload/v1743697496/12_shs5aj.jpg",
-    title: (
-      <>
-        <div className="space-y-7">
-          <p className="text-white text-3xl sm:text-3xl md:text-3xl lg:text-4xl font-extrabold">
-          Impulsa tu negocio con el mejor sistema de Punto de Venta
-          </p>
-          <p className="text-white text-xl sm:text-xl md:text-1xl lg:text-2xl">
-          ¡Optimiza tus ventas hoy!
-          </p>
-        </div>
-      </>
-    ),
-    bgColor: "bg-[#1B1D32]",
-    buttonText: "Ver Productos",
-    buttonColor: "bg-[#9B1D30]",
-    posColor: "text-white",
-    posText: "POS de Honduras Tienda",
-    hoverColor: "hover:bg-[#ed1b34]",
-    link: "/productos",
-    icon: ShoppingBag,
-    isLink: true,
-  },
-
-
-
-
+  
   {
     //Seccion slide etiquetas electronicas
-    id: 7,
+    id: 6,
     image: "https://res.cloudinary.com/dc95c99nb/image/upload/v1774553352/IM%C3%81GENES_INICIO_P%C3%81G_WEB_actualizaci%C3%B3n-08_fqitnc.jpg",
     title: (
       <>
@@ -279,48 +250,19 @@ const slides = [
 
 
 
-  {
-    //Seccion slide ecoflow
-    id: 8,
-    image: "https://res.cloudinary.com/ddrl7h6xt/image/upload/v1743697499/16_glg69e.jpg",
-    title: (
-      <>
-        <div className="space-y-7">
-          <p className="text-white text-3xl sm:text-3xl md:text-3xl lg:text-4xl font-extrabold">
-          Mantén tu negocio siempre encendido con baterías EcoFlow
-          </p>
-          <p className="text-white text-xl sm:text-xl md:text-1xl lg:text-2xl">
-          ¡Descubre la energía portátil avanzada!
-          </p>
-        </div>
-      </>
-    ),
-    bgColor: "bg-[#1B1D32]",
-    buttonText: "Ver Productos",
-    buttonColor: "bg-[#9B1D30]",
-    posColor: "text-white",
-    posText: "POS de Honduras Tienda",
-    hoverColor: "hover:bg-[#ed1b34]",
-    link: "/productos",
-    icon: ShoppingBag,
-    isLink: true,
-  },
-
-
-
 
   {
     //Seccion slide seguridad
-    id: 9,
-    image: "https://res.cloudinary.com/ddrl7h6xt/image/upload/v1743697500/18_lnr7tl.jpg",
+    id: 7,
+    image: "https://res.cloudinary.com/dc95c99nb/image/upload/v1774553347/IM%C3%81GENES_INICIO_P%C3%81G_WEB_actualizaci%C3%B3n-10_agbvoa.jpg",
     title: (
       <>
         <div className="space-y-7">
           <p className="text-white text-3xl sm:text-3xl md:text-3xl lg:text-4xl font-extrabold">
-          Seguridad Inteligente para tu Negocio
+          Protege tu tienda con antenas EAS
           </p>
           <p className="text-white text-xl sm:text-xl md:text-1xl lg:text-2xl">
-          ¡Refuerza tu seguridad!
+          Reduce pérdidas y mejora la seguridad de tu negocio de forma efectiva.
           </p>
         </div>
       </>
