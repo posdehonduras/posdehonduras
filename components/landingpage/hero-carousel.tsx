@@ -154,17 +154,17 @@ const slides = [
 
 
   {
-    //Seccion slide RMH
+    //Seccion slide Equipo PV
     id: 4,
     image: "https://res.cloudinary.com/dc95c99nb/image/upload/v1774553351/IM%C3%81GENES_INICIO_P%C3%81G_WEB_actualizaci%C3%B3n-06_mmrswh.jpg",
     title: (
       <>
         <div className="space-y-7">
           <p className="text-white text-3xl sm:text-3xl md:text-3xl lg:text-4xl font-extrabold">
-          RMH: Control total para tu tienda en un solo sistema Retail Management Hero
+          Impulsa tu negocio con equipos de punto de venta
           </p>
           <p className="text-white text-xl sm:text-xl md:text-1xl lg:text-2xl">
-          Gestiona ventas, inventario y precios de forma rápida y eficiente
+          Optimiza tus ventas con tecnología rápida, confiable y lista para trabajar.
           </p>
         </div>
       </>
@@ -190,12 +190,12 @@ const slides = [
   {
     //Seccion slide logistica
     id: 5,
-    image: "https://res.cloudinary.com/ddrl7h6xt/image/upload/v1743697497/10_aczjyq.jpg",
+    image: "https://res.cloudinary.com/dc95c99nb/image/upload/v1774553347/IM%C3%81GENES_INICIO_P%C3%81G_WEB_actualizaci%C3%B3n-04_kguayz.jpg",
     title: (
       <>
         <div className="space-y-7">
           <p className="text-white text-3xl sm:text-3xl md:text-3xl lg:text-4xl font-extrabold">
-          Optimiza tu Logística con Soluciones Avanzadas
+          Optimiza tu operación con soluciones avanzadas para logística
           </p>
           <p className="text-white text-xl sm:text-xl md:text-1xl lg:text-2xl">
           ¡Contáctanos y equipa tu negocio con la mejor tecnología!
@@ -250,15 +250,15 @@ const slides = [
   {
     //Seccion slide etiquetas electronicas
     id: 7,
-    image: "https://res.cloudinary.com/ddrl7h6xt/image/upload/v1743697497/14_kijaia.jpg",
+    image: "https://res.cloudinary.com/dc95c99nb/image/upload/v1774553352/IM%C3%81GENES_INICIO_P%C3%81G_WEB_actualizaci%C3%B3n-08_fqitnc.jpg",
     title: (
       <>
         <div className="space-y-7">
           <p className="text-white text-3xl sm:text-3xl md:text-3xl lg:text-4xl font-extrabold">
-          Moderniza tu negocio con Etiquetas Electrónicas
+          Precios actualizados en segundos
           </p>
           <p className="text-white text-xl sm:text-xl md:text-1xl lg:text-2xl">
-          ¡Actualiza tus precios en segundos!
+          Actualiza tus precios, reduce errores y mejora la experiencia de compra
           </p>
         </div>
       </>
