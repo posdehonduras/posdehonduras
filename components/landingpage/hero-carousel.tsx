@@ -94,7 +94,7 @@ const slides = [
       <>
         <div className="space-y-7">
           <p className="text-white text-3xl sm:text-3xl md:text-3xl lg:text-4xl font-extrabold">
-          Agiliza tu restaurante con comandas en pantalla
+          MyPOS : Agiliza tu restaurante con comandas en pantalla
           </p>
           <p className="text-white text-xl sm:text-xl md:text-1xl lg:text-2xl">
           Toma pedidos desde la mesa, anvialos directo a cocina y reduce errores en cada orden.
