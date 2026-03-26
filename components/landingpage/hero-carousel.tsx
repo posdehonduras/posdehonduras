@@ -57,17 +57,17 @@ const branches = [
 // Datos de los slides del carrusel
 const slides = [
   {
-    //Seccion slide A2
+    //Seccion slide RMH Main
     id: 1,
-    image: "https://res.cloudinary.com/ddrl7h6xt/image/upload/v1743697494/2_bqephb.jpg",
+    image: "https://res.cloudinary.com/dc95c99nb/image/upload/v1774553351/IM%C3%81GENES_INICIO_P%C3%81G_WEB_actualizaci%C3%B3n-12_sehhoo.jpg",
     title: (
       <>
         <div className="space-y-7">
           <p className="text-white text-3xl sm:text-3xl md:text-3xl lg:text-4xl font-extrabold">
-          Optimiza tu negocio con A2 Punto de Venta
+          RMH: Control total para tu tienda en un solo sistema Retail Management Hero
           </p>
           <p className="text-white text-xl sm:text-xl md:text-1xl lg:text-2xl">
-          Contáctanos para gestionar tu negocio
+          Gestiona ventas, inventario y precios de forma rápida y eficiente
           </p> 
         </div>
       </>
@@ -120,17 +120,17 @@ const slides = [
 
 
   {
-    //Seccion slide EasySoft
+    //Seccion slide LANDI
     id: 3,
-    image: "https://res.cloudinary.com/ddrl7h6xt/image/upload/v1743697495/6_nd0sl7.jpg",
+    image: "https://res.cloudinary.com/dc95c99nb/image/upload/v1774553348/IM%C3%81GENES_INICIO_P%C3%81G_WEB_actualizaci%C3%B3n-02_ncr3oz.jpg",
     title: (
       <>
         <div className="space-y-7">
           <p className="text-white text-3xl sm:text-3xl md:text-3xl lg:text-4xl font-extrabold">
-          Ventas controladas y tecnología de vanguardia
+          Acepta pagos de forma rápida y segura
           </p>
           <p className="text-white text-xl sm:text-xl md:text-1xl lg:text-2xl">
-          Contáctanos y optimiza la gestión de tu negocio con las mejores soluciones
+          Equipos confiables para cobros ágiles cpm tarjeta de y sin contacto
           </p>
         </div>
       </>
