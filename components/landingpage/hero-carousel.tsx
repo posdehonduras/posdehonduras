@@ -154,17 +154,17 @@ const slides = [
 
 
   {
-    //Seccion slide Cizaro
+    //Seccion slide RMH
     id: 4,
-    image: "https://res.cloudinary.com/dc95c99nb/image/upload/v1774553347/IMÁGENES_INICIO_PÁG_WEB_actualización-11_lfxdyf.jpg",
+    image: "https://res.cloudinary.com/dc95c99nb/image/upload/v1774553351/IM%C3%81GENES_INICIO_P%C3%81G_WEB_actualizaci%C3%B3n-06_mmrswh.jpg",
     title: (
       <>
         <div className="space-y-7">
           <p className="text-white text-3xl sm:text-3xl md:text-3xl lg:text-4xl font-extrabold">
-          CIZARO: La solución completa para tu negocio
+          RMH: Control total para tu tienda en un solo sistema Retail Management Hero
           </p>
           <p className="text-white text-xl sm:text-xl md:text-1xl lg:text-2xl">
-          ¡Contáctanos y trasforma tu empresa hoy!
+          Gestiona ventas, inventario y precios de forma rápida y eficiente
           </p>
         </div>
       </>
